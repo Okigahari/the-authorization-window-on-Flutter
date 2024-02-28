@@ -4,7 +4,7 @@
 --- 
 <p align="center" dir="auto">Well, today every application has its own authorization window.</p>
 <p align="center" dir="auto">Every novice programmer starts with something, but if he plans to make a soy application, he starts with this window</p>
---- 
+ 
 
 <p align="center">
   <img src="https://ibb.co/cYSXwSB">
