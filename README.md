@@ -7,7 +7,7 @@
  
 
 <p align="center">
-  <img src="https://ibb.co/cYSXwSB">
+  <img src="https://i.ibb.co/8YL4bLC/2024-02-29-045912702.png">
 </p>
 
 >I will provide my first version of the authorization window for those who are currently learning to program in Dart
